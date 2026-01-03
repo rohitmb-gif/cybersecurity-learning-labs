@@ -17,8 +17,8 @@
 
 ## Gaps Identified
 - Need deeper networking fundamentals
-- Need to start Linux command-line practice
+- Need to start command-line practice
 
 ## Next Focus
 - Networking basics
-- Linux Fundamentals (TryHackMe)
+- OS Fundamentals (TryHackMe)
